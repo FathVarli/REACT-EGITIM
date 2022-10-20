@@ -18,8 +18,7 @@ class Example extends React.Component {
     }
   }
 
-  import React, { useState } from 'react';
- 
+import React, { useState } from 'react';
 function Example() {
   // Declare a new state variable, which we'll call "count"
   const [count, setCount] = useState(0);
